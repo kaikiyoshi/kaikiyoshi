@@ -2,9 +2,17 @@
 
 ### 🚀 About Me
 
-🎓 Master of Science @ Waseda University
-🔬 Research : Physical Reservoir Computing  
-🌐 Focus Tech : Networking / AI
+🎓 **M.S. @ Waseda University**  
+🔬 Former research: **Physical Reservoir Computing** (Hardware-based AI)  
+🌐 Focus: **Networking × AI**
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaikiyoshi&show_icons=true&locale=ja&layout=compact&theme=chartreuse-dark" alt="Top Languages" /></p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=kaikiyoshi&show_icons=true&locale=ja&theme=chartreuse-dark" alt="GitHub Stats" width="410" /></p>
+
+<img src="https://github-profile-trophy.vercel.app/?username=kaikiyoshi&theme=juicyfresh&no-bg=true" />
+
 
 ---
 
@@ -22,7 +30,7 @@
 
 #### ⚙️ Backend / Middleware
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,rabbitmq" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
 </p>
 
 #### 🖥 OS / Platform
@@ -45,7 +53,7 @@
 ### 📚 Currently Learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,bash,nodejs,mongodb,linux,ubuntu,git,vite,docker" />
+  <img src="https://skillicons.dev/icons?i=C,js,react,bash,nodejs,mongodb,rabbitmq,linux,ubuntu,git,vite,docker" />
 </p>
 
 
@@ -55,5 +63,3 @@
 
 - GitHub: https://github.com/kaikiyoshi  
 - Open for collaboration, discussion, and ideas 💬
-
-⭐️ *“Bridging hardware, AI, and networks.”*
