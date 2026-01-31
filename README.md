@@ -10,7 +10,7 @@
 
 ### 📊 GitHub Stats
 
-[![Kaiki's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaikiyoshi)](https://github.com/anuraghazra/github-readme-stats)
+[![Kaiki's GitHub stats](https://github-readme-stats-psi-two-22.vercel.app/api?username=kaikiyoshi&show_icons=true&theme=chartreuse-dark)](https://github.com/kaikiyoshi)
 
 ---
 
