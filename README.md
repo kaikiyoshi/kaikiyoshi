@@ -1,35 +1,52 @@
 ## Hi there 👋 I'm Kaiki Yoshimura
 
-🎓 **Master of Science @ Waseda University**  
+🎓 Master of Science @ Waseda University
 🔬 Research : Physical Reservoir Computing  
-🌐 Networking / AI
+🌐 Focus Tech : Networking / AI
 
 ---
 
 ### 🛠 Tech Stack
 
+#### 🧑‍💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,git,linux" />
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib" />
-  <img src="https://skillicons.dev/icons?i=scikit,sklearn,jupyter" />
-  <img src="https://skillicons.dev/icons?i=cisco" />
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,bash,powershell" />
 </p>
 
-**Languages & Tools:**  
-Python, Git, Linux, Jupyter, Pandas, NumPy, Matplotlib, Scikit-Learn  
-**Network / Infra:** Cisco SD-WAN
+#### 🤖 AI / Data Science
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=anaconda,sklearn,tensorflow,opencv" />
+</p>
+
+#### ⚙️ Backend / Middleware
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,rabbitmq" />
+</p>
+
+#### 🖥 OS / Platform
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat,windows,apple" />
+</p>
+
+#### 🧰 Dev / Ops Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,vite" />
+</p>
+
+#### 🌐 Social / Communication
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=gmail,linkedin,discord,twitter,instagram" />
+</p>
+
 
 ---
 
 ### 📚 Currently Learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,docker,kubernetes,aws" />
-  <img src="https://skillicons.dev/icons?i=openai,langmodel" />
+  <img src="https://skillicons.dev/icons?i=docker,react" />
 </p>
 
-**Learning Focus:**  
-Go, Docker, Kubernetes, AWS, Large Language Models (LLMs)
 
 ---
 
