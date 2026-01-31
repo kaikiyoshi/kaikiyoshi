@@ -11,6 +11,8 @@
 ### 📊 GitHub Stats
 
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs?username=kaikiyoshi&show_icons=true&locale=en&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kaikiyoshi&show_icons=true&theme=vue-dark&cache_seconds=21600)
+
 
 ---
 
