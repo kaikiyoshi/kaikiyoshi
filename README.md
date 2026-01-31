@@ -10,14 +10,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaikiyoshi&layout=compact&locale=ja&theme=chartreuse-dark" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api?username=kaikiyoshi&show_icons=true&locale=ja&theme=chartreuse-dark" height="160" />
-</p>
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=kaikiyoshi&theme=juicyfresh&no-bg=true&margin-w=10" />
-</p>
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs?username=kaikiyoshi&show_icons=true&locale=en&layout=compact)
 
 ---
 
