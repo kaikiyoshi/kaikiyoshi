@@ -10,9 +10,6 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ryoma-abe&show_icons=true&theme=tokyonight&count_private=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryoma-abe&layout=compact&theme=tokyonight" />
-<img src="https://streak-stats.demolab.com?user=anuraghazra&theme=ryoma-abe&hide_border=false&date_format=%5BY%20%5DM%20j" />
 
 ---
 
