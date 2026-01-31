@@ -10,6 +10,7 @@
 
 ### 📊 GitHub Stats
 
+[![Top Langs](https://github-readme-stats-psi-two-22.vercel.app/api?username=kaikiyoshi)](https://github.com/kaikiyoshi)
 [![Kaiki's GitHub stats](https://github-readme-stats-psi-two-22.vercel.app/api?username=kaikiyoshi&show_icons=true&theme=chartreuse-dark)](https://github.com/kaikiyoshi)
 
 ---
