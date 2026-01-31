@@ -1,5 +1,7 @@
 ## Hi there 👋 I'm Kaiki Yoshimura
 
+### 🚀 About Me
+
 🎓 Master of Science @ Waseda University
 🔬 Research : Physical Reservoir Computing  
 🌐 Focus Tech : Networking / AI
@@ -8,14 +10,14 @@
 
 ### 🛠 Tech Stack
 
-#### 🧑‍💻 Languages
+#### 🧑‍💻 Programming Languages / Shell Scripts
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,bash,powershell" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,bash,powershell" />
 </p>
 
 #### 🤖 AI / Data Science
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=anaconda,sklearn,tensorflow,opencv" />
+  <img src="https://skillicons.dev/icons?i=ai,anaconda,sklearn,opencv,tensorflow" />
 </p>
 
 #### ⚙️ Backend / Middleware
@@ -35,29 +37,17 @@
 
 #### 🌐 Social / Communication
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=gmail,linkedin,discord,twitter,instagram" />
+  <img src="https://skillicons.dev/icons?i=linkedin,twitter,instagram,discord,gmail" />
 </p>
-
 
 ---
 
 ### 📚 Currently Learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,react" />
+  <img src="https://skillicons.dev/icons?i=js,react,bash,nodejs,mongodb,linux,ubuntu,git,vite,docker" />
 </p>
 
-
----
-
-### 🚀 About Me
-
-I’m exploring **Physical Reservoir Computing** for object recognition & anomaly detection,  
-and building tools that combine **AI × Networking Automation**.
-
-- 🧪 Python-first research & data analysis  
-- 🤖 Generative AI & LLM applications  
-- 🌐 Network automation (Cisco SD-WAN)
 
 ---
 
