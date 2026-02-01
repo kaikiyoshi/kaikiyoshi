@@ -11,8 +11,8 @@
 ### 📊 GitHub Stats
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats-psi-two-22.vercel.app/api/top-langs/?username=kaikiyoshi&layout=compact&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats-psi-two-22.vercel.app/api?username=kaikiyoshi&show_icons=true&theme=onedark" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats-psi-two-22.vercel.app/api/top-langs/?username=kaikiyoshi&layout=compact&theme=onedark&cache_seconds=1800" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats-psi-two-22.vercel.app/api?username=kaikiyoshi&show_icons=true&theme=onedark&cache_seconds=1800" />
 </p>
 
 
